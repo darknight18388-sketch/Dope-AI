@@ -48,3 +48,13 @@ desktop.ini
 logs/
 downloads/
 screenshots/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+config/api_keys.json
+memory/tasks/
+memory/routines.json
+memory/tasks/
+memory/routines.json
