@@ -1,6 +1,6 @@
 """gui/overlays.py — Panels that open over the HUD: setup, customise, plugins, confirm, audio, memory, remote.
 
-Split out of ui.py in Mark LVII; behaviour unchanged."""
+Split out of ui.py in Dope AI; behaviour unchanged."""
 from __future__ import annotations
 
 import json

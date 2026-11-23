@@ -1,6 +1,6 @@
 """ui.py — the entry point to the HUD.
 
-Mark LVII moved the implementation into the gui/ package. This file keeps
+Dope AI moved the implementation into the gui/ package. This file keeps
 JarvisUI — the object main.py builds and every plugin receives as `player` —
 and re-exports every name ui.py has ever defined, so `from ui import X`
 written against an older Mark still finds X here.

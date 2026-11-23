@@ -1,6 +1,6 @@
 """gui/window.py — MainWindow — lays the HUD out and owns every signal the rest of the app talks to.
 
-Split out of ui.py in Mark LVII; behaviour unchanged."""
+Split out of ui.py in Dope AI; behaviour unchanged."""
 from __future__ import annotations
 
 import json

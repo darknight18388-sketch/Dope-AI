@@ -1,6 +1,6 @@
 """gui/theme.py — Palette, typography and the configuration values every part of the HUD reads.
 
-Split out of ui.py in Mark LVII; behaviour unchanged."""
+Split out of ui.py in Dope AI; behaviour unchanged."""
 from __future__ import annotations
 
 import json
@@ -85,7 +85,7 @@ def _read_full_config() -> dict:
 
 # Single source of truth for the release name — the window title, the header
 # badge and the readme must never disagree again.
-APP_VERSION  = "MARK LVII"
+APP_VERSION  = "DOPE AI"
 APP_PROTOCOL = APP_VERSION.split()[-1]
 
 _DEFAULT_W, _DEFAULT_H = 980, 700

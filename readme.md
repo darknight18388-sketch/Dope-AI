@@ -1,4 +1,4 @@
-# ⚙️ MARK LVII (57)
+# ⚙️ DOPE AI (57)
 ### The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
 
 > 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@FatihMakes)**
@@ -9,7 +9,7 @@ A real-time voice AI that can hear, see, speak, and control your computer — on
 
 ## ✨ Overview
 
-Mark LVI let you choose what runs the assistant. **Mark LVII gives it work that
+Mark LVI let you choose what runs the assistant. **Dope AI gives it work that
 carries on while you are not watching.**
 
 Say *"research this for ten minutes"* or *"tonight at two, compare these three"*
@@ -145,7 +145,7 @@ It's not just an assistant — it's an extension of your digital life.
 
 ---
 
-## 🆕 What's New in Mark LVII
+## 🆕 What's New in Dope AI
 
 No new dependency. Everything below is built from what the app already had: the
 Gemini ladder, the DuckDuckGo search the web tool already used, and PyQt.
@@ -154,7 +154,7 @@ Gemini ladder, the DuckDuckGo search the web tool already used, and PyQt.
 
 A voice assistant is bad at long work for one reason: the conversation is the only
 place anything happens, and a conversation cannot sit on one question for ten
-minutes. Mark LVII gives long work its own place.
+minutes. Dope AI gives long work its own place.
 
 *"Research the best budget 3D printers for ten minutes"* — the assistant says in one
 sentence that it has started, and you carry on talking. *"Tonight at 02:00, compare
@@ -802,8 +802,8 @@ It is held in memory only, deliberately: writing it to disk would make a fresh l
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/FatihMakes/Mark-LVII.git
-cd Mark-LVII
+git clone https://github.com/FatihMakes/Dope-AI.git
+cd Dope-AI
 python setup.py        # installs deps for YOUR OS + the browser automation engine
 python main.py
 ```
@@ -837,7 +837,7 @@ python main.py
 ## 🗂️ Project Structure
 
 ```
-Mark LVII/
+Dope AI/
 ├── main.py                   # Core loop — Gemini Live session, audio I/O, viseme extraction, tool dispatch
 ├── ui.py                     # JarvisUI — what main.py builds and plugins receive as `player`;
 │                             #   re-exports every name the old single-file ui.py defined

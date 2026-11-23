@@ -1,4 +1,4 @@
-"""The HUD, split out of ui.py in Mark LVII.
+"""The HUD, split out of ui.py in Dope AI.
 
 ui.py is still the entry point and still exports every name it always did,
 so main.py, plugins and anything written against Mark LVI keep working.
