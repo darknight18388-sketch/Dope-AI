@@ -17,5 +17,3 @@ Add your Gemini API key in `config/api_keys.json` (never commit this file), then
 python main.py
 ```
 
-## Credits
-Based on Mark-LVII by FatihMakes (CC BY-NC 4.0). Non-commercial use only.
